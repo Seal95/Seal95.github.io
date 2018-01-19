@@ -4,3 +4,19 @@
     background-color: aqua; 
 
 }
+
+/* a dot is a class and it is reusable, add it to an element same was as ID*/
+.MyClass {
+
+    font-size: 50px;
+
+}
+
+h1 {
+    font-weight: bold;
+
+}
+
+.MyClass,h1 {
+    color:red;
+}
